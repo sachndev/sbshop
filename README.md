@@ -118,5 +118,3 @@ plugins: [],
 @tailwind utilities;
 ```
 
-> any doubt please contact me!
-> asfakahmed680@gmail.com
