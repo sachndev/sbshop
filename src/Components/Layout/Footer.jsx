@@ -57,21 +57,21 @@ const Footer = () => {
           </p>
 
           <div className="flex items-center mt-[15px]">
-            <a href="https://web.facebook.com/rahi680/" target="_blank">
+            {/* <a href="https://web.facebook.com/rahi680/" target="_blank">
               <AiFillFacebook size={25} className=" cursor-pointer" />
-            </a>
-            <a href="https://twitter.com/Asfak00" target="_blank">
+            </a> */}
+            {/* <a href="https://twitter.com/Asfak00" target="_blank">
               <AiOutlineTwitter
                 size={25}
                 className="ml-[15px] cursor-pointer"
               />
-            </a>
-            <a href="https://github.com/asfak00" target="_blank">
+            </a> */}
+            <a href="https://github.com/sachin-007" target="_blank">
               <AiFillGithub size={25} className="ml-[15px] cursor-pointer" />
             </a>
-            <a href="https://www.instagram.com/asfakahmed22/" target="_blank">
+            {/* <a href="https://www.instagram.com/asfakahmed22/" target="_blank">
               <AiFillInstagram size={25} className="ml-[15px] cursor-pointer" />
-            </a>
+            </a> */}
           </div>
         </ul>
 
